@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+
+}
+.t1{
+    text-align: center;
+    text-decoration-color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+.t2detalhe{
+    text-align: center;
+    text-decoration-color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t2{
+    text-align: justify;
+    text-decoration-color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-image: linear-gradient(to right, #BDB8B8, #E4E4E4, #9F9595);
+    text-align: center;
+    width: 100%; /* Define a largura da imagem */
+    height: 50%;
+    text-align: center;
+    text-decoration-color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
